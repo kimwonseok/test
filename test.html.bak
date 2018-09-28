@@ -16,7 +16,7 @@
 			 alert('world');
 		};
 
-		return bar();
+		return bar;
 	}
 	foo();
   </script>
